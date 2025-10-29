@@ -1,0 +1,14 @@
+D:\лабы ооп Польшин\lab__4\lab__4\bin\Debug\net8.0\lab__4.exe
+D:\лабы ооп Польшин\lab__4\lab__4\bin\Debug\net8.0\lab__4.deps.json
+D:\лабы ооп Польшин\lab__4\lab__4\bin\Debug\net8.0\lab__4.runtimeconfig.json
+D:\лабы ооп Польшин\lab__4\lab__4\bin\Debug\net8.0\lab__4.dll
+D:\лабы ооп Польшин\lab__4\lab__4\bin\Debug\net8.0\lab__4.pdb
+D:\лабы ооп Польшин\lab__4\lab__4\obj\Debug\net8.0\lab__4.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы ооп Польшин\lab__4\lab__4\obj\Debug\net8.0\lab__4.AssemblyInfoInputs.cache
+D:\лабы ооп Польшин\lab__4\lab__4\obj\Debug\net8.0\lab__4.AssemblyInfo.cs
+D:\лабы ооп Польшин\lab__4\lab__4\obj\Debug\net8.0\lab__4.csproj.CoreCompileInputs.cache
+D:\лабы ооп Польшин\lab__4\lab__4\obj\Debug\net8.0\lab__4.dll
+D:\лабы ооп Польшин\lab__4\lab__4\obj\Debug\net8.0\refint\lab__4.dll
+D:\лабы ооп Польшин\lab__4\lab__4\obj\Debug\net8.0\lab__4.pdb
+D:\лабы ооп Польшин\lab__4\lab__4\obj\Debug\net8.0\lab__4.genruntimeconfig.cache
+D:\лабы ооп Польшин\lab__4\lab__4\obj\Debug\net8.0\ref\lab__4.dll
