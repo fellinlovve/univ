@@ -1,8 +1,8 @@
-using System;
+﻿using System;
 using System.IO;
 
 
-namespace lab__5
+namespace lab__4
 {
     class FileGenerator
     {
@@ -65,7 +65,7 @@ namespace lab__5
 
             Console.WriteLine("Максимальный нечёный элемен равен {0}", max_nechet);
 
-
+            
             double summ = 0;
 
             for (int i = 0; i < mas.Length; i++)
@@ -76,31 +76,17 @@ namespace lab__5
 
             Console.WriteLine("Среднее арифмеическое равно {0}", sred);
 
-            Console.WriteLine("Список чётных элементов: ");
-
-            int chet_cnt = 0;
+            Console.Write("Список чётных элементов: ");
 
             for (int i = 0; i < mas.Length; i++)
             {
                 if (mas[i] % 2 == 0)
-                    chet_cnt++;
-            }
-
-            int[] chet = new int[chet_cnt];
-            for (int i = 0; i < mas.Length; i++)
-            {
-                int ind = 0;
-                if (mas[i] % 2 == 0)
-                    chet[ind] = mas[i];
-                    ind++;
-            }
-            for (int i = 0; i < chet.Length; i++)
-            {
-                Console.Write(chet[i] + " ");
+                    Console.Write(mas[i] + " ");
             }
 
             Console.SetOut(save_out); new_out.Close();
             Console.SetIn(save_in); new_in.Close();
         }
     }
+
 }
