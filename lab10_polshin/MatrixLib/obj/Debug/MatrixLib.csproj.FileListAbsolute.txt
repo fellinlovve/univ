@@ -1,0 +1,6 @@
+D:\польшин артем ооп\lab10_polshin\MatrixLib\bin\Debug\MatrixLib.dll
+D:\польшин артем ооп\lab10_polshin\MatrixLib\bin\Debug\MatrixLib.pdb
+D:\польшин артем ооп\lab10_polshin\MatrixLib\obj\Debug\MatrixLib.csproj.AssemblyReference.cache
+D:\польшин артем ооп\lab10_polshin\MatrixLib\obj\Debug\MatrixLib.csproj.CoreCompileInputs.cache
+D:\польшин артем ооп\lab10_polshin\MatrixLib\obj\Debug\MatrixLib.dll
+D:\польшин артем ооп\lab10_polshin\MatrixLib\obj\Debug\MatrixLib.pdb

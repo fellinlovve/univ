@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\польшин артем ооп\\lab10_polshin\\MatrixApp\\MatrixApp.csproj": {}
+  },
+  "projects": {
+    "D:\\польшин артем ооп\\lab10_polshin\\MatrixApp\\MatrixApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\польшин артем ооп\\lab10_polshin\\MatrixApp\\MatrixApp.csproj",
+        "projectName": "MatrixApp",
+        "projectPath": "D:\\польшин артем ооп\\lab10_polshin\\MatrixApp\\MatrixApp.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "D:\\польшин артем ооп\\lab10_polshin\\MatrixApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\польшин артем ооп\\lab10_polshin\\MatrixLib\\MatrixLib.csproj": {
+                "projectPath": "D:\\польшин артем ооп\\lab10_polshin\\MatrixLib\\MatrixLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\польшин артем ооп\\lab10_polshin\\MatrixLib\\MatrixLib.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\польшин артем ооп\\lab10_polshin\\MatrixLib\\MatrixLib.csproj",
+        "projectName": "MatrixLib",
+        "projectPath": "D:\\польшин артем ооп\\lab10_polshin\\MatrixLib\\MatrixLib.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
