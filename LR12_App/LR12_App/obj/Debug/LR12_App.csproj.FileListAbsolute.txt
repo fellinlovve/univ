@@ -1,0 +1,9 @@
+D:\лабы ооп\LR12_App\LR12_App\bin\Debug\LR12_App.exe.config
+D:\лабы ооп\LR12_App\LR12_App\bin\Debug\LR12_App.exe
+D:\лабы ооп\LR12_App\LR12_App\bin\Debug\LR12_App.pdb
+D:\лабы ооп\LR12_App\LR12_App\obj\Debug\LR12_App.csproj.AssemblyReference.cache
+D:\лабы ооп\LR12_App\LR12_App\obj\Debug\LR12_App.Properties.Resources.resources
+D:\лабы ооп\LR12_App\LR12_App\obj\Debug\LR12_App.csproj.GenerateResource.cache
+D:\лабы ооп\LR12_App\LR12_App\obj\Debug\LR12_App.csproj.CoreCompileInputs.cache
+D:\лабы ооп\LR12_App\LR12_App\obj\Debug\LR12_App.exe
+D:\лабы ооп\LR12_App\LR12_App\obj\Debug\LR12_App.pdb
