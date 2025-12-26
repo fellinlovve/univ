@@ -1,0 +1,4 @@
+D:\лабы ооп\lab11_polshin\lab11_polshin\obj\Debug\net8.0\lab11_polshin.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы ооп\lab11_polshin\lab11_polshin\obj\Debug\net8.0\lab11_polshin.AssemblyInfoInputs.cache
+D:\лабы ооп\lab11_polshin\lab11_polshin\obj\Debug\net8.0\lab11_polshin.AssemblyInfo.cs
+D:\лабы ооп\lab11_polshin\lab11_polshin\obj\Debug\net8.0\lab11_polshin.csproj.CoreCompileInputs.cache

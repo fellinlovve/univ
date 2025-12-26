@@ -1,0 +1,11 @@
+ID,Name,Login,Password,HasFamily,HasCar,Department,Salary
+1,Иванов Алексей,user1,pass1,true,true,IT,65000
+2,Петрова Мария,,pass2,false,false,HR,52000
+3,Сидоров Дмитрий,user3,,true,true,Sales,58000
+4,Кузнецова Анна,user4,pass4,true,false,Finance,70000
+5,Смирнов Игорь,,pass5,false,true,IT,48000
+6,Попов Артём,user6,pass6,false,false,Sales,45000
+7,Волкова Елена,user7,,true,true,HR,55000
+8,Морозов Сергей,user8,pass8,true,false,Finance,62000
+9,Федорова Татьяна,,pass9,false,false,IT,47000
+10,Лебедев Олег,user10,pass10,true,true,Sales,60000
