@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\bin\Debug\Lab14_Variant19.exe.config
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\bin\Debug\Lab14_Variant19.exe
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\bin\Debug\Lab14_Variant19.pdb
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\obj\Debug\Lab14_Variant19.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\obj\Debug\Lab14_Variant19.Properties.Resources.resources
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\obj\Debug\Lab14_Variant19.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\obj\Debug\Lab14_Variant19.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\obj\Debug\Lab14_Variant19.exe
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\obj\Debug\Lab14_Variant19.pdb
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\obj\Debug\Lab14_Variant19.exe.config
+C:\Users\user\source\repos\Lab14_Variant19\Lab14_Variant19\obj\Debug\Lab14_Variant19.Form1.resources
