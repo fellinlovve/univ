@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lab23_Task19\Lab23_Task19\bin\Debug\Lab23_Task19.exe.config
+C:\Users\user\source\repos\Lab23_Task19\Lab23_Task19\bin\Debug\Lab23_Task19.exe
+C:\Users\user\source\repos\Lab23_Task19\Lab23_Task19\bin\Debug\Lab23_Task19.pdb
+C:\Users\user\source\repos\Lab23_Task19\Lab23_Task19\obj\Debug\Lab23_Task19.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab23_Task19\Lab23_Task19\obj\Debug\Lab23_Task19.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab23_Task19\Lab23_Task19\obj\Debug\Lab23_Task19.exe
+C:\Users\user\source\repos\Lab23_Task19\Lab23_Task19\obj\Debug\Lab23_Task19.pdb
