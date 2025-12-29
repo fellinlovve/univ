@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\Lab18_19.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\Lab18_19_MarkupCompile.cache
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\Lab18_19.g.resources
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\Lab18_19.Properties.Resources.resources
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\Lab18_19.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\Lab18_19.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab18_19\Lab18_19\bin\Debug\Lab18_19.exe.config
+C:\Users\user\source\repos\Lab18_19\Lab18_19\bin\Debug\Lab18_19.exe
+C:\Users\user\source\repos\Lab18_19\Lab18_19\bin\Debug\Lab18_19.pdb
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\Lab18_19.exe
+C:\Users\user\source\repos\Lab18_19\Lab18_19\obj\Debug\Lab18_19.pdb
