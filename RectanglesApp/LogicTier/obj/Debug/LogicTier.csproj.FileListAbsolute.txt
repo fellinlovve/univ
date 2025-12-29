@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\RectanglesApp\LogicTier\bin\Debug\LogicTier.dll
+C:\Users\user\source\repos\RectanglesApp\LogicTier\bin\Debug\LogicTier.pdb
+C:\Users\user\source\repos\RectanglesApp\LogicTier\bin\Debug\DataTier.dll
+C:\Users\user\source\repos\RectanglesApp\LogicTier\bin\Debug\DataTier.pdb
+C:\Users\user\source\repos\RectanglesApp\LogicTier\obj\Debug\LogicTier.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RectanglesApp\LogicTier\obj\Debug\LogicTier.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RectanglesApp\LogicTier\obj\Debug\LogicTier.csproj.Up2Date
+C:\Users\user\source\repos\RectanglesApp\LogicTier\obj\Debug\LogicTier.dll
+C:\Users\user\source\repos\RectanglesApp\LogicTier\obj\Debug\LogicTier.pdb
