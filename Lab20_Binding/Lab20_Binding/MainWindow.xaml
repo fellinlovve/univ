@@ -1,0 +1,44 @@
+﻿<Window x:Class="Lab20_Binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Лабораторная работа №20 — Привязки WPF" Height="550" Width="500"
+        FontFamily="Segoe UI" Language="ru-RU">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- 1. Строковая привязка -->
+        <TextBlock Grid.Row="0" Text="Текст:" Margin="5"/>
+        <TextBox x:Name="txtInput" Grid.Row="1" Margin="5" Text="Пример текста"/>
+        <TextBlock Grid.Row="2" Margin="5" Text="{Binding ElementName=txtInput, Path=Text}" FontSize="16"/>
+
+        <!-- 2. Логическая привязка (жирный шрифт) -->
+        <CheckBox x:Name="chkBold" Grid.Row="3" Margin="5" Content="Жирный шрифт"/>
+        <TextBlock x:Name="txtSample" Grid.Row="4" Margin="5"
+                   Text="Этот текст может быть жирным"
+                   FontWeight="{Binding IsChecked, ElementName=chkBold, Converter={StaticResource BoolToFontWeightConverter}}"/>
+
+        <!-- 3. Целочисленная привязка (размер шрифта) -->
+        <Slider x:Name="sliderFontSize" Grid.Row="5" Margin="5" Minimum="8" Maximum="36" Value="14"/>
+        <TextBlock Grid.Row="6" Margin="5"
+                   Text="Изменяйте размер шрифта"
+                   FontSize="{Binding Value, ElementName=sliderFontSize, Mode=TwoWay}"/>
+
+        <!-- 4. Цвет фона -->
+        <ComboBox x:Name="cmbColor" Grid.Row="7" Margin="5" SelectedIndex="0">
+            <ComboBoxItem Content="Светло-зеленый"/>
+            <ComboBoxItem Content="Светло-голубой"/>
+            <ComboBoxItem Content="Персиковый"/>
+        </ComboBox>
+        <Border Grid.Row="8" Height="60" Margin="5"
+                Background="{Binding SelectedItem.Content, ElementName=cmbColor}"/>
+    </Grid>
+</Window>
