@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\GdiPlusLab17_Variant19\GdiPlusLab17_Variant19\obj\Debug\GdiPlusLab17_Variant19.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GdiPlusLab17_Variant19\GdiPlusLab17_Variant19\obj\Debug\GdiPlusLab17_Variant19.Properties.Resources.resources
+C:\Users\user\source\repos\GdiPlusLab17_Variant19\GdiPlusLab17_Variant19\obj\Debug\GdiPlusLab17_Variant19.csproj.GenerateResource.cache
+C:\Users\user\source\repos\GdiPlusLab17_Variant19\GdiPlusLab17_Variant19\obj\Debug\GdiPlusLab17_Variant19.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GdiPlusLab17_Variant19\GdiPlusLab17_Variant19\bin\Debug\GdiPlusLab17_Variant19.exe.config
+C:\Users\user\source\repos\GdiPlusLab17_Variant19\GdiPlusLab17_Variant19\bin\Debug\GdiPlusLab17_Variant19.exe
+C:\Users\user\source\repos\GdiPlusLab17_Variant19\GdiPlusLab17_Variant19\bin\Debug\GdiPlusLab17_Variant19.pdb
+C:\Users\user\source\repos\GdiPlusLab17_Variant19\GdiPlusLab17_Variant19\obj\Debug\GdiPlusLab17_Variant19.exe
+C:\Users\user\source\repos\GdiPlusLab17_Variant19\GdiPlusLab17_Variant19\obj\Debug\GdiPlusLab17_Variant19.pdb
