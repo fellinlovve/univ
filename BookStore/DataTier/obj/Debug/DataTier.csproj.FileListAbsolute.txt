@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\BookStore\DataTier\bin\Debug\DataTier.dll
+C:\Users\user\source\repos\BookStore\DataTier\bin\Debug\DataTier.pdb
+C:\Users\user\source\repos\BookStore\DataTier\obj\Debug\DataTier.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BookStore\DataTier\obj\Debug\DataTier.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BookStore\DataTier\obj\Debug\DataTier.dll
+C:\Users\user\source\repos\BookStore\DataTier\obj\Debug\DataTier.pdb

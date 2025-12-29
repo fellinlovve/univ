@@ -1,0 +1,32 @@
+﻿<Window x:Class="PresentationTier.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{Binding StoreName}" Height="500" Width="600">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Список книг:" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <ListBox Grid.Row="1" ItemsSource="{Binding Books}" DisplayMemberPath="Title"/>
+
+        <StackPanel Grid.Row="2" Margin="0,10,0,0">
+            <TextBlock Text="Суммарная стоимость по жанрам:" FontWeight="Bold"/>
+            <ItemsControl ItemsSource="{Binding TotalByGenre}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}" />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+
+            <TextBlock Margin="0,10,0,0">
+                <Run Text="Средняя цена книг жанра 'Фантастика':" FontWeight="Bold"/>
+                <Run Text="{Binding AvgFantasyPrice, StringFormat=F2, Mode=OneWay}"/>
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>
