@@ -1,0 +1,49 @@
+﻿<Window x:Class="Lab19.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Лабораторная работа №19" Height="600" Width="800"
+        Background="White">
+    <Window.Resources>
+        <!-- Стиль 1: базовый -->
+        <Style x:Key="BasicShapeStyle" TargetType="Shape">
+            <Setter Property="Fill" Value="LightBlue"/>
+            <Setter Property="Stroke" Value="Black"/>
+            <Setter Property="StrokeThickness" Value="2"/>
+        </Style>
+
+        <!-- Стиль 2: при наведении -->
+        <Style x:Key="HoverStyle" TargetType="Shape">
+            <Setter Property="Fill" Value="Yellow"/>
+            <Setter Property="Stroke" Value="Blue"/>
+            <Setter Property="StrokeThickness" Value="3"/>
+        </Style>
+
+        <!-- Стиль 3: при клике -->
+        <Style x:Key="ClickedStyle" TargetType="Shape">
+            <Setter Property="Fill" Value="Gray"/>
+            <Setter Property="Stroke" Value="Red"/>
+            <Setter Property="StrokeThickness" Value="4"/>
+        </Style>
+
+        <!-- Стиль 4: случайный -->
+        <Style x:Key="RandomStyle" TargetType="Shape">
+            <Setter Property="StrokeThickness" Value="2"/>
+            <!-- Триггеры будут управляться из C# -->
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label Content="Количество фигур:"/>
+            <TextBox x:Name="txtCount" Width="60" Text="10"/>
+            <Button x:Name="btnGenerate" Content="Сгенерировать фигуры" Margin="10,0" Click="btnGenerate_Click"/>
+        </StackPanel>
+
+        <Canvas x:Name="MainCanvas" Grid.Row="1" Background="Beige"/>
+    </Grid>
+</Window>
