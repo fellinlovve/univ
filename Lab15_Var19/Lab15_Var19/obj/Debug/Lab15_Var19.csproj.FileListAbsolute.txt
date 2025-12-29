@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Lab15_Var19\Lab15_Var19\bin\Debug\Lab15_Var19.exe.config
+C:\Users\user\source\repos\Lab15_Var19\Lab15_Var19\bin\Debug\Lab15_Var19.exe
+C:\Users\user\source\repos\Lab15_Var19\Lab15_Var19\bin\Debug\Lab15_Var19.pdb
+C:\Users\user\source\repos\Lab15_Var19\Lab15_Var19\obj\Debug\Lab15_Var19.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab15_Var19\Lab15_Var19\obj\Debug\Lab15_Var19.Properties.Resources.resources
+C:\Users\user\source\repos\Lab15_Var19\Lab15_Var19\obj\Debug\Lab15_Var19.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lab15_Var19\Lab15_Var19\obj\Debug\Lab15_Var19.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab15_Var19\Lab15_Var19\obj\Debug\Lab15_Var19.exe
+C:\Users\user\source\repos\Lab15_Var19\Lab15_Var19\obj\Debug\Lab15_Var19.pdb
