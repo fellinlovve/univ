@@ -1,7 +1,0 @@
-<!DOCTYPE HTML>
-<html>
-<body bgcolor="darkblue">
-<MARQUEE height=100 direction="right"
-behavior="slide" scrollamount=3> <font color="white">Бегущая строка 1</font></marquee>
-</body>
-</html>
