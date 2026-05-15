@@ -1,7 +1,0 @@
-<!DOCTYPE HTML>
-<html>
-<body bgcolor="thistle">
-<MARQUEE height=100 direction="right"
-behavior="alternate" scrollamount=3> <font color="white">Бегущая строка 3</font></marquee>
-</body>
-</html>
