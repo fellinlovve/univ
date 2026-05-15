@@ -1,0 +1,7 @@
+<!DOCTYPE HTML>
+<html>
+<body bgcolor="royalblue">
+<MARQUEE height=100 direction="right"
+behavior="scroll" scrollamount=3> <font color="white">Бегущая строка 2</font></marquee>
+</body>
+</html>

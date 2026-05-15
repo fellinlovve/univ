@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>welcome</title>
+</head>
+<body bgcolor="BlanchedAlmond">
+<center><h1>WELCOME</h1></center>
+</body>
+</html>
